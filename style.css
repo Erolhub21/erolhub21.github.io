@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family:'Courier New', Courier, monospace;
+  background-color:red;
+}
+ul{ 
+  justify-content:space-evenly;
+  display:flex;
+  padding:0px;
+}
+li{
+  list-style:none;
+  margin:7px;
+}
+nav{
+  display:flex;
+  justify-content:center;
+  height:75px
+}
+body{
+  margin:0px;
+  text-align:center;
+}
